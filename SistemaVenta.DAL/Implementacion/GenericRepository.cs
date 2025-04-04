@@ -17,7 +17,6 @@ namespace SistemaVenta.DAL.Implementacion
             _dbContext = dbContext;
         }
 
-
         #region Obtener
         public async Task<TEntity> Obtener(Expression<Func<TEntity, bool>> filtro)
         {
@@ -99,7 +98,6 @@ namespace SistemaVenta.DAL.Implementacion
             }
         }
         #endregion
-
 
     }
 }
