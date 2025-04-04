@@ -7,7 +7,7 @@ namespace SistemaVenta.Entity
     {
         public TipoDocumentoVentum()
         {
-            Venta = new HashSet<Ventum>();
+            Venta = new HashSet<Venta>();
         }
 
         public int IdTipoDocumentoVenta { get; set; }
@@ -15,6 +15,6 @@ namespace SistemaVenta.Entity
         public bool? EsActivo { get; set; }
         public DateTime? FechaRegistro { get; set; }
 
-        public virtual ICollection<Ventum> Venta { get; set; }
+        public virtual ICollection<Venta> Venta { get; set; }
     }
 }
