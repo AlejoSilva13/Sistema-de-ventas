@@ -12,6 +12,7 @@
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/SistemaVenta.IOC.AssemblyInfoInputs.cache
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/SistemaVenta.IOC.AssemblyInfo.cs
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/SistemaVenta.IOC.csproj.CoreCompileInputs.cache
+/Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/SistemaVenta.IOC.sourcelink.json
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/SistemaV.CF7CC950.Up2Date
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/SistemaVenta.IOC.dll
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.IOC/obj/Debug/net6.0/refint/SistemaVenta.IOC.dll

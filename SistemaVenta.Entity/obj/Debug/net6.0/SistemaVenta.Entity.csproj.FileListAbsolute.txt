@@ -7,6 +7,7 @@
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/SistemaVenta.Entity.AssemblyInfoInputs.cache
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/SistemaVenta.Entity.AssemblyInfo.cs
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+/Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/SistemaVenta.Entity.sourcelink.json
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/SistemaVenta.Entity.dll
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/refint/SistemaVenta.Entity.dll
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.Entity/obj/Debug/net6.0/SistemaVenta.Entity.pdb

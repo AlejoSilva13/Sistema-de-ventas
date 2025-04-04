@@ -54,6 +54,7 @@
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/SistemaVenta.AplicacionWeb.MvcApplicationPartsAssemblyInfo.cache
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/SistemaVenta.AplicacionWeb.RazorAssemblyInfo.cache
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/SistemaVenta.AplicacionWeb.RazorAssemblyInfo.cs
+/Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/SistemaVenta.AplicacionWeb.sourcelink.json
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/staticwebassets.build.json
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/staticwebassets.development.json
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.AplicacionWeb/obj/Debug/net6.0/staticwebassets/msbuild.SistemaVenta.AplicacionWeb.Microsoft.AspNetCore.StaticWebAssets.props

@@ -8,6 +8,7 @@
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/SistemaVenta.DAL.AssemblyInfoInputs.cache
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/SistemaVenta.DAL.AssemblyInfo.cs
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+/Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/SistemaVenta.DAL.sourcelink.json
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/SistemaV.EE7A9206.Up2Date
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/SistemaVenta.DAL.dll
 /Users/alejandro.silva/Library/CloudStorage/OneDrive-WPPCloud/Documents/Curso de ventas .NET 6/SistemaDeVentas/SistemaVenta.DAL/obj/Debug/net6.0/refint/SistemaVenta.DAL.dll
